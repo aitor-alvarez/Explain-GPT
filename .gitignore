@@ -1,0 +1,7 @@
+creds/credentials.py
+*.txt
+*creds.py
+*.pyc
+venv/
+.idea/
+*.DS_Store
