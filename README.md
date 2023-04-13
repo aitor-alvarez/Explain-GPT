@@ -6,3 +6,17 @@ This is an experiment to test GPT models to provide opinions and explanations ba
 ## Caution
 Please use with caution. This is intended as a test code for understanding capabilities, not for using in real-life applications. 
 
+## Requirements
+
+```
+pip install requirements
+```
+
+You will need to create in the folder creds the file credentials.py and two variables with their correspondent API keys from OpenAI and newsapi:
+
+```
+OPENAI_KEY="key-here"
+NEWSAPI_KEY="key-here"
+
+
+```
