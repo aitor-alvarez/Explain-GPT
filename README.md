@@ -20,3 +20,12 @@ NEWSAPI_KEY="key-here"
 
 
 ```
+
+## Running the program
+
+```
+python main.py
+
+```
+
+Explanaitons will be printed on the console's screen.
