@@ -1,5 +1,5 @@
-# Opinion-GPT
-Opinion GPT: experimenting with GPT models to produce opinions based on news headlines.
+# Explainable-GPT
+Explainable GPT: experimenting with GPT models to produce explanaitions based on news headlines.
 
 This is an experiment to test GPT models to provide opinions and explanations based on current headlines from news articles obtained from https://newsapi.org/ 
 
