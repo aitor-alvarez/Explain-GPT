@@ -4,7 +4,7 @@ from creds.credentials import OPENAI_KEY
 openai.api_key = OPENAI_KEY
 
 
-def get_completion_response(instruction, engine="gpt-3.5-turbo", max_tokens=200):
+def get_completion_response(instruction, engine="gpt-3.5-turbo"):
 	try:
 		response = openai.ChatCompletion.create(
 			model=engine,
